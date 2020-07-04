@@ -1,9 +1,9 @@
-# WebApp Isomeria - Chemical Solutions
+# [WebApp Isomeria - Chemical Solutions](https://isomeria-app.herokuapp.com/)
 
 #### English (portuguese below / em português abaixo)
 # About
 
-This WebApp is used by [**Isomeria**](http://www.quimica.ufpr.br/paginas/isomeria/) to update and visualize their members weekly activity data.   
+This [WebApp](https://isomeria-app.herokuapp.com/) is used by [**Isomeria**](http://www.quimica.ufpr.br/paginas/isomeria/) to update and visualize their members weekly activity data.   
 It was developed in the context of helping some company/group in need of some data processing automation. The idea behind the weekly activities and progression based on experience and levels, like a RPG game, was developed by the company members themselves.  
 Before, member activities were manually translated into spreadsheets from text chats in their Slack comunity based on these main activities:  
 1. Internal meetings;  
@@ -32,11 +32,11 @@ Please, feel free to use the code in any way you wish. Among the files there is 
 Thanks for reading!  
 
 ___    
-# WebApp Isomeria - Soluções em Química
+# [WebApp Isomeria - Soluções em Química](https://isomeria-app.herokuapp.com/)
 #### Português
 # Sobre
 
-Este WebApp é utilizado pelos membros da **Isomeria** para atualizar e visualizar dados relativos a atividade semanal dos alunos participantes! [Saiba mais sobre nós!](http://www.quimica.ufpr.br/paginas/isomeria/)  
+Este [WebApp](https://isomeria-app.herokuapp.com/) é utilizado pelos membros da **Isomeria** para atualizar e visualizar dados relativos a atividade semanal dos alunos participantes! [Saiba mais sobre nós!](http://www.quimica.ufpr.br/paginas/isomeria/)  
 Foi feito no contexto de ajudar alguma empresa/grupo que necessitasse de certa automatização de algum processo que envolvesse dados. No caso, as atividades semanais e a ideia de progressão desenvolvida com base em níveis e experiência, como em um jogo de RPG, foram pensadas pelos próprios participantes da empresa.  
 Antes, os dados de atividades eram obtidos através de conversas na comunidade Slack da empresa e traduzidos em uma das dez atividades estipuladas:  
 1. Reuniões internas;  
