@@ -404,7 +404,7 @@ def main():
     if add_selectbox == 'Autor':
         st.header(add_selectbox)
         st.markdown('Este WebApp foi criado em Python por **Klismam** Franciosi Pereira, estudante e entusiasta do campo de ciência de dados e engenheiro ambiental formado pela UFPR.')
-        st.markdown('O código deste WebApp e os seus requerimentos estão disponíveis em meu [Github]()! Lá você pode encontrar um .zip de amostra para testar o WebApp.')
+        st.markdown('O código deste WebApp e os seus requerimentos estão disponíveis em meu [Github](https://github.com/Key0412/webapp-isomeria/tree/master)! Lá você pode encontrar um [.zip de amostra](https://github.com/Key0412/webapp-isomeria/blob/master/SAMPLE.zip) para testar o WebApp.')
         st.markdown('Se tiver ideias de como melhorar este WebApp, se quiser criar um você mesmo, ou se tem uma ideia legal pra discutir, entre em contato!')
         st.subheader('Contatos')
         st.markdown('* [LinkedIn](https://www.linkedin.com/in/klismam-pereira/)')
