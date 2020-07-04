@@ -306,6 +306,8 @@ def main():
                    )
         st.markdown('* O WebApp vai **guardar o estado das modificações feitas**, por isso, se deseja descartar modificações aperte **c** no teclado para limpar o cache e **r** para regarregar o app. Se quer enviar outro .zip, use **F5** no lugar de r.'
                    )
+        st.markdown('* **Se observar erros**, tente limpar o cache referido anteriormente - **c** no teclado - e então recarregue o app com **F5**. Se persistir, entre em contato!'
+                   )
         st.markdown('Para mais informações sobre o WebApp, código envolvido e para obter um **.zip de amostra**, acesse a aba **Autor**.'
                    )
         st.subheader('Níveis e Progressão')
