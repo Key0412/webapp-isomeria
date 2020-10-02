@@ -112,7 +112,7 @@ def updatePlayerActivity(selectedPlayer, playerActivitySelector, date, kind='upd
             csv_zip.writestr(player+'.csv', playerData[player].to_csv())
         csv_zip.writestr('membros.csv', memberInfo.to_csv())
 
-def get_zip_download_link(date): #downloadZip, date):
+def get_zip_download_link(date):
     """Generates a link allowing the data in a given ZIP file to be downloaded
     in:  cached zip file
     out: href string
